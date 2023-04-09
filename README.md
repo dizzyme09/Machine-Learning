@@ -1,2 +1,2 @@
-# computer_vision
-my personal project for learning computer vision 👁‍🗨
+# Computer Vision 👁‍🗨
+personal project for learning purposes on computer vision
